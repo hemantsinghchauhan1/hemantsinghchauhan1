@@ -87,5 +87,6 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hemantsinghchauhan1&color=blueviolet&style=flat)
+https://github-readme-stats.vercel.app/api?username=hemantsinghchauhan1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=0
 
 </div>
