@@ -25,9 +25,8 @@
 ```json
 {
   "name": "Heman Singh Chauhan",
-  "role": "B.Tech Student @ NIT Agartala",
-  "program": "ITEP (Integrated Teacher Education)",
-  "building": "NITACampus",
+  "role": "Student @ IIT Madras X NIT Agartala",
+  "building": "SomeThing Crazy",
   "volunteering": "WE CAN Club — Teaching",
   "status": "debugging life, one commit at a time"
 }
