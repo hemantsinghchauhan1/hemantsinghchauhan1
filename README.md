@@ -25,7 +25,7 @@
 ```json
 {
   "name": "Heman Singh Chauhan",
-  "role": "Student @ IIT Madras X NIT Agartala ",
+  "role": "B.Tech Student @ NIT Agartala",
   "program": "ITEP (Integrated Teacher Education)",
   "building": "NITACampus",
   "volunteering": "WE CAN Club — Teaching",
@@ -51,8 +51,8 @@
 
 ### 🚀 Featured Project
 
-<a href="https://github.com/hemantsinghchauhan1/nitacampus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hemantsinghchauhan1&repo=nitacampus&theme=tokyonight" />
+<a href="https://github.com/hemantsinghchauhan1/NITA-CAMPUS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hemantsinghchauhan1&repo=NITA-CAMPUS&theme=tokyonight" />
 </a>
 
 ---
