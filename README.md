@@ -40,10 +40,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech student at **NIT Agartala**, enrolled in the **ITEP** (Integrated Teacher Education Programme)
+- 🎓 student at **IIT Madras X NIT Agartala**,
 - 🛠️ Currently building **[NITACampus](https://github.com/hemantsinghchauhan1/nitacampus)** — a college platform for NIT Agartala
 - 🤝 Volunteer at **WE CAN Club**, teaching underprivileged students
-- 🌱 Exploring AI coding agents to speed up development (Antigravity, Claude Code)
 - 💬 Ask me about education tech, mobile app dev, or teacher training
 
 ---
