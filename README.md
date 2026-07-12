@@ -39,7 +39,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 student at **IIT Madras X NIT Agartala**,
-- 🛠️ Currently building **[NITACampus](https://github.com/hemantsinghchauhan1/nitacampus)** — a college platform for NIT Agartala
+- 🛠️ Currently building **DAMM crazy** — a college platform for NIT Agartala
 - 🤝 Volunteer at **WE CAN Club**, teaching underprivileged students
 - 💬 Ask me about education tech, mobile app dev, or teacher training
 
